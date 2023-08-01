@@ -22,5 +22,4 @@ function countWordsInFile(filename) {
   });
 }
 
-// Call the function with the file name "data.txt"
 countWordsInFile("data.txt");
